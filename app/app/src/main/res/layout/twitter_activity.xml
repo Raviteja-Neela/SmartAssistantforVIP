@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TwitterSampleActivity"
+    tools:ignore="UnusedResources">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/main_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/login"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:onClick="onTwitterCore"
+                android:text="Login To Twitter"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/compose"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:onClick="onTweetComposer"
+                android:text="Compose Tweet" />
+
+            <Button
+                android:id="@+id/tweets"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:onClick="onTweetUi"
+                android:text="Read Tweets" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

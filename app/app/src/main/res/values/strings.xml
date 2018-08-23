@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">SuggestionApp</string>
+    <string name="start_listening">Start listening</string>
+    <string name="stop_listening">Stop listening</string>
+    <string name="say_something">Say</string>
+    <string name="introduction">Tap on one of the buttons to try an action</string>
+    <string name="tts_hint">Write something to speech</string>
+    <string name="repeat">Repeat please</string>
+    <string name="input_something">Please input something to speak!</string>
+    <string name="speech_not_available">Speech recognition is not available on this device. Do you want to install Google app to have speech recognition?</string>
+    <string name="permission_required">You need to grant the permission to use the microphone</string>
+    <string name="enable_google_voice_typing">Please enable Google Voice Typing to use speech recognition!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="email">Email</string>
+    <string name="done">Done</string>
+    <string name="phone_number">Phone number</string>
+    <string name="name">Name</string>
+    <string name="business_card_information">Business Card Information</string>
+    <string name="take_picture">Take picture</string>
+    <string name="button_to_open_camera">Button to open camera</string>
+    <string name="business_card_reader">Business Card Reader</string>
+    <string name="text_goes_here">Text goes here..</string>
+    <string name="contacts">Contacts</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_name">Enter name</string>
+    <string name="phone">Phone</string>
+    <string name="twitter_app_name">Twitter</string>
+    <string name="kit_twittercore">Twitter Core</string>
+    <string name="kit_tweetcomposer">Tweet Composer</string>
+    <string name="kit_tweetui">Tweet Ui</string>
+
+    <!-- TweetComposer strings -->
+    <string name="twitter_composer">Twitter Composer</string>
+    <string name="twitter_kit_composer">TwitterKit Composer</string>
+
+    <!-- TweetUi strings -->
+    <string name="preview_tweet">Preview</string>
+    <string name="xml_tweets_activity">XML Tweets</string>
+    <string name="tweets_activity">Single Tweets</string>
+    <string name="unqiue_tweets">Unique Tweets</string>
+    <string name="button_timelines_activity">Timelines</string>
+    <string name="search_timeline_title">Search Timeline</string>
+    <string name="user_timeline_title">Dev Timeline</string>
+    <string name="user_recycler_view_timeline_title">News</string>
+    <string name="collection_timeline_title">Popular tweets</string>
+    <string name="list_timeline_title">Latest tweets</string>
+    <string name="fixed_timeline">Fixed Timeline</string>
+    <string name="rtl_timeline">RTL Timeline</string>
+    <string name="refresh_timeline">Refresh Timeline</string>
+    <string name="refresh_timeline_title">Search: #twitter</string>
+    <string name="button_show_light">Light</string>
+    <string name="button_show_dark">Dark</string>
+    <string name="selector_input_hint">Tweet id</string>
+    <string name="tweet_load_error">Failed to load Tweet</string>
+    <string name="multi_tweet_view_error">Failed to load tweets</string>
+    <string name="timeline_empty">No tweets :(</string>
+    <string name="tweet_pojo">Tweet Pojo</string>
+</resources>

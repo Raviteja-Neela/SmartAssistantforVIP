@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd5048</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="app_primary">#dd5048</color>
+    <color name="app_primary_dark">#303F9F</color>
+    <color name="mt_hintColor">#dd5048</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_accent">#55acee</color>
+
+    <color name="twitter_blue">#ff55acee</color>
+    <color name="twitter_dark">#ff292f33</color>
+    <color name="divider_gray">#ffe1e8ed</color>
+</resources>

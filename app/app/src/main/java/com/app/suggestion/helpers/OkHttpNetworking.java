@@ -24,7 +24,7 @@ public class OkHttpNetworking extends AsyncTask<String, Void, String> {
         this.textToProcess = textToProcess;
     }
 
-    private static final String api_key = "051f3d43-d0f2-44cd-9305-c28774e55ee1";
+    private static final String api_key = "********-****-****-****-***********";
 
     public String callNamedERAPI(String extractedText){
         OkHttpClient client = new OkHttpClient();
